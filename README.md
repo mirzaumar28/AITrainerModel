@@ -1,1 +1,1 @@
-# PoseEstimationModel
+# AI Trainer Model
